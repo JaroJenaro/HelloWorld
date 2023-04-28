@@ -227,7 +227,7 @@ public class ControlFlow {
 	}
 	public static void testeFaculty() {
 		
-		for (int i=0; i<=6;i++)
+		for (int i=0; i<=7;i++)
 		{
 			facultyWithForPar(i);
 			facultyWithWhilePar(i);
