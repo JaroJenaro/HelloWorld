@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jaroslawplaczek
+ *
+ */
+module HelloWorld {
+}
