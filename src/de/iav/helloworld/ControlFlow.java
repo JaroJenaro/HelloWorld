@@ -226,8 +226,8 @@ public class ControlFlow {
 		return res;		
 	}
 	public static void testeFaculty() {
-		
-		for (int i=0; i<=7;i++)
+		//jaro work
+		for (int i=0; i<=8;i++)
 		{
 			facultyWithForPar(i);
 			facultyWithWhilePar(i);
